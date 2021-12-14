@@ -1,8 +1,8 @@
 import pygame
 
-from Rays.Point import Point
-from Rays.PointList import PointList
-from Rays.features import random_coords
+from Point import Point
+from PointList import PointList
+from features import random_coords
 from settings import FPS, WINDOW_SIZE, BLACK
 
 

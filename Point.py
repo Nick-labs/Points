@@ -1,7 +1,7 @@
 import pygame
 import random
 
-from Rays.settings import WHITE, WINDOW_WIDTH, WINDOW_HEIGHT
+from settings import WHITE, WINDOW_WIDTH, WINDOW_HEIGHT
 
 
 class Point:
